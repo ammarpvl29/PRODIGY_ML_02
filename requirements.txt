@@ -1,0 +1,21 @@
+# Core dependencies for PRODIGY_ML_02
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Additional dependencies
+scipy
+jupyter
+notebook
+ipykernel
+
+# For report generation (optional)
+fpdf2
+plotly
+
+# Development dependencies
+black
+flake8
+pytest
